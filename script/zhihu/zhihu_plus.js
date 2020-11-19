@@ -87,8 +87,8 @@ let magicJS = MagicJS(scriptName, "INFO");
           let data = obj['data'].filter((element) =>{
             return !(element['card_type'] === 'slot_event_card' || 
                      element['ad'] || 
-                     element['extra']['type'] === 'drama' ||
-                     element['extra']['type'] == 'zvideo' || 
+                     // element['extra']['type'] === 'drama' ||
+                     // element['extra']['type'] === 'zvideo' || 
                      custom_blocked_users[element['common_card']['feed_content']['source_line']['elements'][1]['text']['panel_text']]
                     );
           });
@@ -334,14 +334,20 @@ let magicJS = MagicJS(scriptName, "INFO");
 })();
 
 function GetUserInfo(){
+  let defaultUserInfo = {id: 'default', is_vip: false};
   try{
     let user_info = magicJS.read(current_userinfo_key);
     if (typeof user_info === 'string') user_info = JSON.parse(user_info);
-    return user_info;
+    if (!!user_info && user_info.hasOwnProperty('id')){
+      return user_info;
+    }
+    else{
+      return defaultUserInfo;
+    }
   }
   catch(err){
     magicJS.logError(`获取用户信息出现异常：${err}`);
-    return {id: 'default', is_vip: false};
+    return defaultUserInfo;
   }
 }
 
