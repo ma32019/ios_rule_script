@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-19 17:35:27。
+最后检查时间：2020-11-24 08:42:58。
 
 ## 规则统计
 
@@ -27,12 +27,12 @@ Spotify分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 93607   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/Advertising.list)   |   0.00%  |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 109924   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 94238   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/Advertising.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 110633   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/BlackList.list)   |   0.38%  |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google)    | 123   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/Google.list)   |   0.81%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/Global.list)   |   0.24%  |
-|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 268   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/GlobalMedia.list)   |   0.37%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 463   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/GlobalMedia.list)   |   0.22%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Proxy)    | 5988   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark/Repeat/Proxy.list)   |   0.05%  |
 ## 配置说明
 

@@ -1,35 +1,43 @@
 # NAME: Apple
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-11-19 17:35:17
-# DOMAIN-SUFFIX: 147
-# IP-CIDR: 10
+# UPDATE: 2020-11-24 08:42:48
+# DOMAIN-SUFFIX: 160
+# IP-CIDR: 11
 # PROCESS-NAME: 2
-# DOMAIN: 2
+# DOMAIN: 3
 # USER-AGENT: 1
-# TOTAL: 162
+# TOTAL: 177
 DOMAIN,api.smoot.apple.cn
 DOMAIN,apple.comscoreresearch.com
+DOMAIN,www-cdn.icloud.com.akadns.net,apple
 DOMAIN-SUFFIX,a1.mzstatic.com
 DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
 DOMAIN-SUFFIX,a4.mzstatic.com
 DOMAIN-SUFFIX,a5.mzstatic.com
 DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,aaplimg.com,apple
 DOMAIN-SUFFIX,adcdownload.apple.com
 DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com,apple
 DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.co,apple
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com,apple
 DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com.cn,apple
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,appstore.com,apple
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
 DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,cdn-apple.com,apple
 DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn2.apple-mapkit.com
 DOMAIN-SUFFIX,cdn-cn3.apple-mapkit.com
@@ -59,6 +67,7 @@ DOMAIN-SUFFIX,clientflow.apple.com.akadns.net
 DOMAIN-SUFFIX,configuration.apple.com
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net
 DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,crashlytics.com,apple
 DOMAIN-SUFFIX,cstat.apple.com
 DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,download.developer.apple.com
@@ -83,9 +92,12 @@ DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-content.com,apple
 DOMAIN-SUFFIX,icloud.cdn-apple.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com,apple
 DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud.com.cn,apple
 DOMAIN-SUFFIX,images.apple.com
 DOMAIN-SUFFIX,images.apple.com.akadns.net
 DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
@@ -113,11 +125,13 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,itunesconnect.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,me.com,apple
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,mzstatic.com,apple
 DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,oscdn.apple.com
@@ -161,6 +175,7 @@ IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
 IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,17.0.0.0/8,apple,no-resolve
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve

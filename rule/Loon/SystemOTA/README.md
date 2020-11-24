@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-19 17:35:24。
+最后检查时间：2020-11-24 08:42:56。
 
 ## 规则统计
 
@@ -27,8 +27,8 @@ iOS系统升级分流规则，与本项目其他分流规则重复情况统计�
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Apple)    | 160   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/Apple.list)   |   1.88%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73526   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/ChinaTest.list)   |   0.00%  |
+|  [Apple](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Apple)    | 175   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/Apple.list)   |   1.71%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73409   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SystemOTA/Repeat/ChinaTest.list)   |   0.00%  |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

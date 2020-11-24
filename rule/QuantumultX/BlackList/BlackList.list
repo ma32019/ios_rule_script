@@ -1,16 +1,16 @@
 # NAME: BlackList
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-11-19 17:35:17
+# UPDATE: 2020-11-24 08:42:48
 # HOST-SUFFIX: 701
 # USER-AGENT: 3
 # HOST: 5
 # HOST-KEYWORD: 12
 # IP-CIDR: 60
 # TOTAL: 781
-HOST,api-glb-sea.smoot.apple.com,BlackList
-HOST,books.itunes.apple.com,BlackList
-HOST,hls.itunes.apple.com,BlackList
-HOST,lookup-api.apple.com,BlackList
+HOST,api-glb-sea.smoot.apple.com,proxy,BlackList
+HOST,books.itunes.apple.com,proxy,BlackList
+HOST,hls.itunes.apple.com,proxy,BlackList
+HOST,lookup-api.apple.com,proxy,BlackList
 HOST,testflight.apple.com,BlackList
 HOST-SUFFIX,1e100.net,BlackList
 HOST-SUFFIX,2mdn.net,BlackList
@@ -64,7 +64,7 @@ HOST-SUFFIX,appdownloader.net,BlackList
 HOST-SUFFIX,apple-dns.net,BlackList
 HOST-SUFFIX,appshopper.com,BlackList
 HOST-SUFFIX,appspot.com,BlackList
-HOST-SUFFIX,appsto.re,BlackList
+HOST-SUFFIX,appsto.re,proxy,BlackList
 HOST-SUFFIX,arcgis.com,BlackList
 HOST-SUFFIX,archive.is,BlackList
 HOST-SUFFIX,archive.org,BlackList

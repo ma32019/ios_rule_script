@@ -10,7 +10,7 @@
 
 
 
-最后检查时间：2020-11-19 17:35:28。
+最后检查时间：2020-11-24 08:43:00。
 
 ## 规则统计
 
@@ -31,7 +31,7 @@
 | ---- | ---- | ---- | ------ |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube)    | 14   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTubeMusic/Repeat/YouTube.list)   |   14.29%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTubeMusic/Repeat/Global.list)   |   0.24%  |
-|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 268   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTubeMusic/Repeat/GlobalMedia.list)   |   1.49%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 463   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTubeMusic/Repeat/GlobalMedia.list)   |   0.86%  |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

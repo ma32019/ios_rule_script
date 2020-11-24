@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-19 17:35:28。
+最后检查时间：2020-11-24 08:43:00。
 
 ## 规则统计
 
@@ -27,7 +27,6 @@
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Facebook](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Facebook)    | 25   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Instagram/Repeat/Facebook.list)   |   8.00%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Instagram/Repeat/Global.list)   |   0.24%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 5988   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Instagram/Repeat/Proxy.list)   |   0.03%  |
 ## 配置说明

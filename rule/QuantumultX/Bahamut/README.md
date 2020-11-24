@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-19 17:35:23。
+最后检查时间：2020-11-24 08:42:54。
 
 ## 规则统计
 
@@ -30,7 +30,7 @@ Bahamut分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Global)    | 822   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/Global.list)   |   0.61%  |
-|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 268   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/GlobalMedia.list)   |   1.12%  |
+|  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/GlobalMedia)    | 463   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/GlobalMedia.list)   |   0.65%  |
 |  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Proxy)    | 5985   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Bahamut/Repeat/Proxy.list)   |   0.02%  |
 ## 配置说明
 

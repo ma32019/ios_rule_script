@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-19 17:35:24。
+最后检查时间：2020-11-24 08:42:55。
 
 ## 规则统计
 
@@ -23,16 +23,8 @@
 | IP-CIDR | 9 |
 ## 重复统计
 
-Facebook分流规则，与本项目其他分流规则重复情况统计。
 
-点击重复数量可以查看重复规则明细。
-
-| 名称 | 数量 | 重复 | 重合度 |
-| ---- | ---- | ---- | ------ |
-|  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Facebook/Repeat/BlackList.list)   |   0.77%  |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [25](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Facebook/Repeat/Global.list)   |   3.02%  |
-|  [Proxy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Proxy)    | 5988   | [16](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Facebook/Repeat/Proxy.list)   |   0.27%  |
-|  [Instagram](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Instagram)    | 2   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Facebook/Repeat/Instagram.list)   |   100.00%  |
+Facebook分流规则，与本项目其他分流规则没有重复。
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

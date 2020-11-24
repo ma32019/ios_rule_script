@@ -1,32 +1,32 @@
 # NAME: Facebook
 # GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATE: 2020-11-19 17:35:18
+# UPDATE: 2020-11-24 08:42:49
 # DOMAIN-SUFFIX: 15
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 9
 # TOTAL: 25
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,facebook
-IP-CIDR,169.45.248.118/32,no-resolve
-IP-CIDR,3.123.36.126/32,no-resolve
-IP-CIDR,35.157.215.84/32,no-resolve
-IP-CIDR,35.157.217.255/32,no-resolve
-IP-CIDR,52.58.209.134/32,no-resolve
-IP-CIDR,54.162.243.80/32,no-resolve
-IP-CIDR,54.173.34.141/32,no-resolve
-IP-CIDR,54.235.23.242/32,no-resolve
-IP-CIDR,54.93.124.31/32,no-resolve
+DOMAIN-SUFFIX,cdninstagram.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,fb.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,fb.me,proxy,force-remote-dns
+DOMAIN-SUFFIX,fbaddins.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,fbcdn.net,proxy,force-remote-dns
+DOMAIN-SUFFIX,fbsbx.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,fbworkmail.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,instagram.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,m.me,proxy,force-remote-dns
+DOMAIN-SUFFIX,messenger.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,oculus.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,oculuscdn.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,rocksdb.org,proxy,force-remote-dns
+DOMAIN-SUFFIX,whatsapp.com,proxy,force-remote-dns
+DOMAIN-SUFFIX,whatsapp.net,proxy,force-remote-dns
+DOMAIN-KEYWORD,facebook,proxy,force-remote-dns
+IP-CIDR,169.45.248.118/32,proxy,no-resolve
+IP-CIDR,3.123.36.126/32,proxy,no-resolve
+IP-CIDR,35.157.215.84/32,proxy,no-resolve
+IP-CIDR,35.157.217.255/32,proxy,no-resolve
+IP-CIDR,52.58.209.134/32,proxy,no-resolve
+IP-CIDR,54.162.243.80/32,proxy,no-resolve
+IP-CIDR,54.173.34.141/32,proxy,no-resolve
+IP-CIDR,54.235.23.242/32,proxy,no-resolve
+IP-CIDR,54.93.124.31/32,proxy,no-resolve

@@ -1,11 +1,7 @@
-# BlackList 与 Global 共 235 条规则重复
-# 最后检查时间：2020-11-19 17:35:23
+# BlackList 与 Global 共 230 条规则重复
+# 最后检查时间：2020-11-24 08:42:54
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
-HOST,api-glb-sea.smoot.apple.com
-HOST,books.itunes.apple.com
-HOST,hls.itunes.apple.com
-HOST,lookup-api.apple.com
 HOST,testflight.apple.com
 HOST-KEYWORD,blogspot
 HOST-KEYWORD,facebook
@@ -26,7 +22,6 @@ HOST-SUFFIX,apigee.com
 HOST-SUFFIX,apk-dl.com
 HOST-SUFFIX,apkpure.com
 HOST-SUFFIX,appspot.com
-HOST-SUFFIX,appsto.re
 HOST-SUFFIX,archive.is
 HOST-SUFFIX,archive.org
 HOST-SUFFIX,autodraw.com

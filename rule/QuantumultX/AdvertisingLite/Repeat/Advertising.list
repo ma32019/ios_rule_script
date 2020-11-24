@@ -1,5 +1,5 @@
-# AdvertisingLite 与 Advertising 共 21912 条规则重复
-# 最后检查时间：2020-11-19 17:35:22
+# AdvertisingLite 与 Advertising 共 21919 条规则重复
+# 最后检查时间：2020-11-24 08:42:53
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 HOST,0.up.qingdaonews.com
@@ -255,6 +255,7 @@ HOST,adverigo.com
 HOST,advertisement.taobao.com
 HOST,advserver.xyz
 HOST,adyoz.com
+HOST,adzjzewsma.cf
 HOST,adzoe.de
 HOST,ae25079147984d4d.com
 HOST,aebhdrkiybgy.com
@@ -406,7 +407,6 @@ HOST,aubhiple2.com
 HOST,audersmi.com
 HOST,augrenso.com
 HOST,authedmine.eu
-HOST,autologica.ga
 HOST,avoljljeif.com
 HOST,avonnfckdeqeyr.com
 HOST,avppet.com
@@ -810,6 +810,8 @@ HOST,dawnframing.com
 HOST,db8a41d81b8dfe41de2.com
 HOST,dbktgmyjph.com
 HOST,dbmysjylbpwrav.com
+HOST,dcc.ghrtgf.xyz
+HOST,dcc.strbgi.xyz
 HOST,dccstsamnyrjk.com
 HOST,dcjhpaexcwtc.com
 HOST,dckyimoylozbby.com
@@ -949,6 +951,8 @@ HOST,dvnafl0qtqz9k.cloudfront.net
 HOST,dvokgydenwaksi.com
 HOST,dvpgijdm.com
 HOST,dvrttkoyngtnhi.com
+HOST,dvv.lkgtvc.xyz
+HOST,dvv.muyfgf.xyz
 HOST,dwgfwxiecp.com
 HOST,dwhvkier.com
 HOST,dwuvmraztukg.com
@@ -1115,6 +1119,7 @@ HOST,ee.xr883.cn
 HOST,ee.zq13n.cn
 HOST,eeamatyc.com
 HOST,eedsovou.net
+HOST,eei.lobbycafe.cn
 HOST,eencosteptffo.com
 HOST,eeps.me
 HOST,efhseqgqgl.com
@@ -1263,6 +1268,7 @@ HOST,flightsy.win
 HOST,flirrfbpb.com
 HOST,flix360.com
 HOST,flnqmin.org
+HOST,flophous.cf
 HOST,flowplus.meituan.net
 HOST,flrqdjglshsbi.com
 HOST,fmxnlkoaf.com
@@ -1872,7 +1878,6 @@ HOST,limbik.io
 HOST,linformanceder.info
 HOST,lingrethertantin.pro
 HOST,linkforme.tk
-HOST,links-and-traffic.com
 HOST,linkwelove.com
 HOST,linkwelove.it
 HOST,lite.hupu.com
@@ -2044,6 +2049,7 @@ HOST,m.f846b.cn
 HOST,m.fca305.cn
 HOST,m.fca553.cn
 HOST,m.fnlve.cn
+HOST,m.frfykc.cn
 HOST,m.fsdlu.cn
 HOST,m.fu64b.cn
 HOST,m.gaodianfl.com
@@ -2292,6 +2298,7 @@ HOST,neumashop.cl
 HOST,nevergreen.net
 HOST,new-address.tk
 HOST,newcustomads.com
+HOST,nextdoor.com
 HOST,nezbumpwtdexd.com
 HOST,nfrlqwjwwzri.com
 HOST,nglrbsnu.com
@@ -2586,6 +2593,7 @@ HOST,pnkrtgea.com
 HOST,pnmkuqkonlzj.com
 HOST,pnsandbox.com
 HOST,pnunijdm.com
+HOST,po.jiangchangbo.com
 HOST,poaulpos.net
 HOST,poaurtor.com
 HOST,poazoanu.com
@@ -3196,7 +3204,6 @@ HOST,tnkqfatbtlaw.com
 HOST,tnwjldvivhgr.com
 HOST,toads.id
 HOST,toarqsglo.com
-HOST,tokyodrift.ga
 HOST,tomalinoalambres.com.ar
 HOST,tongji.tt.shouji56.com
 HOST,toolbar.cdn.gigya.com
@@ -3308,6 +3315,7 @@ HOST,unmhxfutdmxcdw.com
 HOST,unpaundlagot.pro
 HOST,unrummaged.com
 HOST,unyhjoehc.com
+HOST,uo.jstaogu.com
 HOST,uoicsyuiof.com
 HOST,uopayiycy.com
 HOST,uorhedemxtni.com
@@ -3474,7 +3482,6 @@ HOST,vzreguys.com
 HOST,vzxnrtxpdnl.com
 HOST,w4statistics.info
 HOST,wadrzbroefwd.com
-HOST,wafmedia3.com
 HOST,wahyufian.zoomshare.com
 HOST,warco.pl
 HOST,warezlayer.to
@@ -3752,7 +3759,6 @@ HOST,xamateurpornlic.www1.biz
 HOST,xasuekjguyub.com
 HOST,xauhsixqkymkra.com
 HOST,xawpdwil.com
-HOST,xbasfbno.info
 HOST,xbinjxvdnjqllh.com
 HOST,xbzakxofyhdy.com
 HOST,xcbteuhokmcj.com
@@ -3846,6 +3852,7 @@ HOST,xylnwusfiyq.com
 HOST,xyzzyxxyzzyx.com
 HOST,xz.tongji.shouji56.com
 HOST,xzbilyblsjrg.com
+HOST,y.btdc8.cn
 HOST,y72yuyr9.com
 HOST,ya88s1yk.com
 HOST,yaikleyabl.com
@@ -4056,7 +4063,6 @@ HOST-KEYWORD,guanggao
 HOST-KEYWORD,inmobi
 HOST-KEYWORD,lianmeng
 HOST-KEYWORD,mobaders
-HOST-KEYWORD,monitor
 HOST-KEYWORD,omgmta
 HOST-KEYWORD,omniture
 HOST-KEYWORD,openx
@@ -6022,6 +6028,7 @@ HOST-SUFFIX,adslvseed.qq.com
 HOST-SUFFIX,adsmart.yicha.cn
 HOST-SUFFIX,adsmediabox.com
 HOST-SUFFIX,adsmind.tc.qq.com
+HOST-SUFFIX,adsmind.ugdtimg.com
 HOST-SUFFIX,adsmogo.com
 HOST-SUFFIX,adsmogo.org
 HOST-SUFFIX,adsolution.imtt.qq.com
